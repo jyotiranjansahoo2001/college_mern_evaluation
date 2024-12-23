@@ -1,0 +1,2 @@
+props is used for pass data from parents to child componets,
+state is object whice store the state of a componets

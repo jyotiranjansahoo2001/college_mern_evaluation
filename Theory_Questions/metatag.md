@@ -1,0 +1,1 @@
+<meta> tags in HTML provide metadata about the web page that is not visible to users but is essential for browsers, search engines, and other web services. They are placed within the <head> section of the HTML document.
